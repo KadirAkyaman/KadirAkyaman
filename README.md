@@ -52,8 +52,6 @@ A fully containerized .NET 9 Web API for managing a film archive. This project s
 
 <img src="https://github-readme-stats.vercel.app/api?username=KadirAkyaman&show_icons=true&count_private=true&theme=null" alt="GitHub İstatistikleri" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KadirAkyaman&theme=null" alt="GitHub Streak" />
-
 ## GitHub Activity Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=KadirAkyaman&radius=16&theme=xcode&area=true&order=5" height="300" alt="activity-graph" />
